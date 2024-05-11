@@ -1,0 +1,7 @@
+C:\Users\DİLARA NUR\Source\Repos\kimmilyonerolmakister\kimmilyonerolmakister\bin\Debug\kimmilyonerolmakister.exe.config
+C:\Users\DİLARA NUR\Source\Repos\kimmilyonerolmakister\kimmilyonerolmakister\bin\Debug\kimmilyonerolmakister.exe
+C:\Users\DİLARA NUR\Source\Repos\kimmilyonerolmakister\kimmilyonerolmakister\bin\Debug\kimmilyonerolmakister.pdb
+C:\Users\DİLARA NUR\Source\Repos\kimmilyonerolmakister\kimmilyonerolmakister\obj\Debug\kimmilyonerolmakister.csproj.AssemblyReference.cache
+C:\Users\DİLARA NUR\Source\Repos\kimmilyonerolmakister\kimmilyonerolmakister\obj\Debug\kimmilyonerolmakister.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA NUR\Source\Repos\kimmilyonerolmakister\kimmilyonerolmakister\obj\Debug\kimmilyonerolmakister.exe
+C:\Users\DİLARA NUR\Source\Repos\kimmilyonerolmakister\kimmilyonerolmakister\obj\Debug\kimmilyonerolmakister.pdb
