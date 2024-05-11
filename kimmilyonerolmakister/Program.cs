@@ -11,6 +11,7 @@ namespace kimmilyonerolmakister
     {
         static void Main(string[] args)
         {
+            //Dilara Nur Şavran
 
             #region
 
